@@ -1,2 +1,2 @@
 # ProyectoIntegrador
-Proyecto Integrador: Software mi tienda de Barrio
+App Tienda de Barrio con Excepciones y Archivos en Java
